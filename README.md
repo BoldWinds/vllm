@@ -17,6 +17,12 @@ Easy, fast, and cheap LLM serving for everyone
 🔥 We have built a vLLM website to help you get started with vLLM. Please visit [vllm.ai](https://vllm.ai) to learn more.
 For events, please visit [vllm.ai/events](https://vllm.ai/events) to join us.
 
+> [!NOTE]
+> This fork is used as a personal vLLM source-reading and AI Infra interview-preparation repository.
+> For the learning plan, see [roadmap.md](roadmap.md).
+>
+> 本仓库用于 vLLM 源码阅读与 AI Infra 秋招学习整理。学习路线见 [roadmap.md](roadmap.md)。
+
 ---
 
 ## About
